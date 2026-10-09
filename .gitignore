@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache & build artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# System & Editor files
+.DS_Store
+.vscode/
+
+# Local data (not for commit)
+data/raw/
