@@ -4,7 +4,7 @@
 *This directory documents the data sources used by the project and the team members responsible for them.*  
   
 ## 2. Data Sources  
-Data Source	Description	Source / Link	Owner  
+**Data Source	Description	Source / Link	Owner**  
 Dataset A	Main dataset used by the project	[Add link]	  
 Dataset B	Additional data for testing	[Add link]  
 ## 3. Data Usage  
