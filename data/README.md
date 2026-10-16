@@ -4,11 +4,11 @@
 *This directory documents the data sources used by the project and the team members responsible for them.*  
   
 ## 2. Data Sources  
-  
-**Data Source	Description	Source / Link	Owner**  
-Dataset A	Main dataset used by the project	[Add link]	  
-Dataset B	Additional data for testing	[Add link]  
-  
+
+| Data Source | Description | Source / Link | Owner | Update Frequency |
+| :--- | :--- | :--- | :--- | :--- |
+| `offices.csv` | Tracker for member contributions, issues, PRs, and hours worked | Internal Log | @hoanghaiviet100-creator | Weekly |
+
 ## 3. Data Usage  
   
 *Document where each dataset comes from.*  
