@@ -25,6 +25,7 @@ pip install -e .
 ## Run
 Run the assistant application:
 ```bash
+python -m assistant "help"
 python -m assistant "where is the training office?"
 ```
 
