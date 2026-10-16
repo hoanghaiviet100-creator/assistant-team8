@@ -18,3 +18,7 @@ def test_empty():
 
 def test_help():
     assert "help" in reply("help").lower() or "office" in reply("help").lower()
+
+def test_partial_office_lookup():
+    assert "I.101" in reply("training")
+    assert "I.101" in reply("Training Office")
