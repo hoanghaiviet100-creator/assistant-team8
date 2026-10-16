@@ -26,6 +26,6 @@ def reply(message: str, offices: dict[str, dict[str, str]] | None = None) -> str
         return "I can help you find office locations, check opening hours, or greet you."
     offices = offices if offices is not None else load_offices()
     for name, row in offices.items():
-        if text in name or name in text:
+        if name in text:
             return f"{row['name']}: room {row['room']}, open {row['hours']}."
     return "I don't know that yet. Try asking about an office, e.g. 'training office'."
