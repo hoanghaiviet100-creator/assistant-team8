@@ -12,6 +12,10 @@ The `docs/` folder is used to organize project documentation, track team respons
 |---|---|
 | `README.md` | Overview of the documentation directory |
 | `team.md` | Team members, responsibilities, and assigned tasks |
+| `ui-sources.md` | UI specification and mockups for answer citations and sources |
+| `ui-mockup.png` | Visual UI layout mockup for the chat interface |
+| `ai-interface.md` | Interface specification for the future AI service |
+| `security-check.md` | Security and secret-leak check report |
 
 ## Planned Documentation
 
